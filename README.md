@@ -51,6 +51,7 @@ Anything that's used to edit an existing PDF file:
 
 * [pdfarranger](https://github.com/pdfarranger/pdfarranger): a small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using a graphical interface
 * [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): adds an OCR text layer to scanned PDF files, allowing them to be searched
+* [PDF Dark](https://github.com/1436941541/pdf-dark): converts PDF files to dark mode in the browser, preserving photos and charts via saturation-based pixel classification
 
 ## File Analysis / Security
 
